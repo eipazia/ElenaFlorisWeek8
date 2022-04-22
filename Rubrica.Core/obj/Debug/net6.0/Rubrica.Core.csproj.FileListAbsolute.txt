@@ -1,0 +1,12 @@
+C:\Users\mande\OneDrive\Desktop\Rubrica\Rubrica.Core\bin\Debug\net6.0\Rubrica.Core.deps.json
+C:\Users\mande\OneDrive\Desktop\Rubrica\Rubrica.Core\bin\Debug\net6.0\Rubrica.Core.dll
+C:\Users\mande\OneDrive\Desktop\Rubrica\Rubrica.Core\bin\Debug\net6.0\Rubrica.Core.pdb
+C:\Users\mande\OneDrive\Desktop\Rubrica\Rubrica.Core\obj\Debug\net6.0\Rubrica.Core.csproj.AssemblyReference.cache
+C:\Users\mande\OneDrive\Desktop\Rubrica\Rubrica.Core\obj\Debug\net6.0\Rubrica.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mande\OneDrive\Desktop\Rubrica\Rubrica.Core\obj\Debug\net6.0\Rubrica.Core.AssemblyInfoInputs.cache
+C:\Users\mande\OneDrive\Desktop\Rubrica\Rubrica.Core\obj\Debug\net6.0\Rubrica.Core.AssemblyInfo.cs
+C:\Users\mande\OneDrive\Desktop\Rubrica\Rubrica.Core\obj\Debug\net6.0\Rubrica.Core.csproj.CoreCompileInputs.cache
+C:\Users\mande\OneDrive\Desktop\Rubrica\Rubrica.Core\obj\Debug\net6.0\Rubrica.Core.dll
+C:\Users\mande\OneDrive\Desktop\Rubrica\Rubrica.Core\obj\Debug\net6.0\refint\Rubrica.Core.dll
+C:\Users\mande\OneDrive\Desktop\Rubrica\Rubrica.Core\obj\Debug\net6.0\Rubrica.Core.pdb
+C:\Users\mande\OneDrive\Desktop\Rubrica\Rubrica.Core\obj\Debug\net6.0\ref\Rubrica.Core.dll
